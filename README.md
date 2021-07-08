@@ -1,1 +1,1 @@
-# ripple-factor-half-wave-rectifier
+# ripple-factor-half-wave-rectifier.
